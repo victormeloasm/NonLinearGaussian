@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687562452 source:c:\users\víctor melo\desktop\linearequation\nonlinearequations\nonlinearequations\main.c
+	<stdio.h>
+	<math.h>
+
